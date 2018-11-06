@@ -6,7 +6,7 @@ This is a sample project to get started with developing contracts on the EOSIO p
 1. Change all instances of `SampleProject` and `SampleContract` to something appropriate for your project.
 1. Change the `container_name` field in the `docker-compose.yml` file.
 1. Change `eosio-sample` in the `deploy.sh` file to the container name set in the step above.
-1. Change `eosio-sample` to the container name set above.
+1. Change `eosio-sample` in the `activate.sh` file to the container name set above.
 1. Change all instances of `account` in `deploy.sh` to the name of the account used for deploying your contracts.
 
 ## Usage
